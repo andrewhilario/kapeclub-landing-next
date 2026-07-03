@@ -43,3 +43,6 @@ next-env.d.ts
 #MD Files
 AGENTS.md
 CLAUDE.md
+
+# APK build artifact
+public/kapeclub.apk
